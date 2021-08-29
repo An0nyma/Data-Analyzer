@@ -1,0 +1,203 @@
+{
+    "theme": "Dark Mode",
+    "function data": {
+        "function names": [
+            "Least to Greatest",
+            "Not a Number",
+            "Range",
+            "Mean",
+            "Variance",
+            "Standard Deviation",
+            "Quartile 1",
+            "Median/ Q2",
+            "Quartile 3",
+            "Interquartile Range",
+            "Outlier",
+            "Mode"
+        ],
+        "outlier(s) mode(s)": [
+            "Outliers",
+            "Outlier",
+            "Modes",
+            "Mode"
+        ]
+    },
+    "themes": {
+        "Dark Mode": {
+            "function colors": [
+                "snow",
+                "snow",
+                "snow",
+                "brown1",
+                "brown1",
+                "brown1",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SteelBlue1",
+                "SteelBlue1"
+            ],
+            "output colors": [
+                "snow3",
+                "snow3",
+                "snow3",
+                "firebrick3",
+                "firebrick3",
+                "firebrick3",
+                "SpringGreen4",
+                "SpringGreen4",
+                "SpringGreen4",
+                "SpringGreen4",
+                "steel blue",
+                "steel blue"
+            ],
+            "return": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "Light Mode": {
+            "function colors": [
+                "gray1",
+                "gray1",
+                "gray1",
+                "brown1",
+                "brown1",
+                "brown1",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SteelBlue1",
+                "SteelBlue1"
+            ],
+            "output colors": [
+                "gray15",
+                "gray15",
+                "gray15",
+                "firebrick3",
+                "firebrick3",
+                "firebrick3",
+                "SpringGreen4",
+                "SpringGreen4",
+                "SpringGreen4",
+                "SpringGreen4",
+                "steel blue",
+                "steel blue"
+            ],
+            "return": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "Semi Golden": {
+            "function colors": [
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "brown1",
+                "brown1",
+                "brown1",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SpringGreen3",
+                "SteelBlue1",
+                "SteelBlue1"
+            ],
+            "output colors": [
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "firebrick3",
+                "firebrick3",
+                "firebrick3",
+                "SpringGreen4",
+                "SpringGreen4",
+                "SpringGreen4",
+                "SpringGreen4",
+                "steel blue",
+                "steel blue"
+            ],
+            "return": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "Full Golden": {
+            "function colors": [
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1",
+                "DarkGoldenrod1"
+            ],
+            "output colors": [
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4",
+                "goldenrod4"
+            ],
+            "return": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}
