@@ -8,10 +8,11 @@ You can run it with  `python [terminal_analyzer.py file location]`
 
 ## GUI
 If you would like to use the MacOS application with as-is with no Terminal usage needed, just download the zipped app from the Releases section.
-The GUI is MacOS tested only. You can run it by following the steps below:
+
+The GUI is MacOS tested only. You can run the files by following the steps below:
 - `cd [GUI Analyzer folder location]`
 - `python3 main.py` (requires tkinter & Python 3 to run)
-    - You can install tkinter for python using `brew install python-tk` if necessary
+    - You can install tkinter for python via homebrew using `brew install python-tk` if necessary
 
 ## Themes
 When using the GUI version of this Data Analyzer, you can create your own themes. However, this feature has not been implemented yet, so you have to do it yourself. Below are steps on how to create your own themes.
