@@ -11,6 +11,7 @@ The GUI is MacOS tested only. You can run it by following the steps below:
 - `cd [GUI Analyzer folder location]`
 - `python3 main.py` (requires tkinter & Python 3 to run)
     - You can install tkinter for python using `brew install python-tk` if necessary
+OR if you would like to use the MacOS application in the Releases section, you can just double click that and it will do the work for you
 
 ## Themes
 When using the GUI version of this Data Analyzer, you can create your own themes. However, this feature has not been implemented yet, so you have to do it yourself. Below are steps on how to create your own themes.
@@ -18,6 +19,7 @@ When using the GUI version of this Data Analyzer, you can create your own themes
 - **COLORS:** *You can find the tkinter color chart [here](http://tephra.smith.edu/dftwiki/images/3/3d/TkInterColorCharts.png)* 
 
 - In the file named `data.json`, there is a section named `"themes"`. This is where you will be adding your themes.
+    - Sidenote: if you are using the MacOS application, you have to right click it and press "Show Package Contents" and head to `/Contents/Resources/data.json` to find it.
 - When creating a new theme, there are 4 things that you need.
     1. You need a name for the theme.
     2. You need `"function colors"`, the colors for the names of each functions (Range, Mean, etc)
